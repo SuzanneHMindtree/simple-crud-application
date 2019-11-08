@@ -1,4 +1,4 @@
-# Java-Internal-Management-Order
+# Java-OLTP-Project-With-User-Role
 
 How to run the application:
 1. Open the file in IDE or run icecream.jar
